@@ -1,2 +1,3 @@
-# [Epic Website](https://sudo-flix.lol)
-Silly little dev, alt for [itzCozi](https://github.com/itzcozi).
+# [Epic Website](https://sudo-flix.lol), [Source](https://github.com/sussy-code/smov)
+Silly little dev, alt for [itzCozi](https://github.com/itzcozi).  
+**Allegedly** the dev of sudo-flix...
